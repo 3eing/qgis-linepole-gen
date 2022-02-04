@@ -1,0 +1,5 @@
+<RCC>
+    <qresource>
+        <file alias="plugin_logo">icone_3E.png</file>
+    </qresource>
+</RCC>
